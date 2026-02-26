@@ -61,7 +61,7 @@ career-profile:
     Profesional de TI con más de 12 años de experiencia en administración
     de sistemas, operación de infraestructuras y soporte técnico. Especializado
     en entornos Linux/RHEL, virtualización con Proxmox, contenedores Docker
-    y servidores de aplicaciones como WildFly. Me incorporo a una empresa donde
+    y servidores de aplicaciones como Tomcat o WildFly. Me incorporo a una empresa donde
     poner en práctica todos mis conocimientos y crecer en el área laboral,
     personal e intelectual.
 
@@ -156,15 +156,6 @@ certifications:
       credentialname: Credly
       details: |
         Certificación de administrador de sistemas Linux nivel 1.
-
-    - name: LPIC-1
-      start: 2021
-      end: 2026
-      organization: Linux Professional Institute (LPI)
-      credentialid: xcxnqx9yxd
-      credentialurl:
-      credentialname: LPI
-      details:
 
 projects:
   title: Proyectos
