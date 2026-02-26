@@ -20,7 +20,7 @@ sidebar:
   website:
   linkedin: fernando-maqueda-rufo-9494912b
   xing:
-  github: adekam29
+  github: fernando-maqueda-rufo
   telegram:
   gitlab:
   bitbucket:
@@ -61,15 +61,23 @@ career-profile:
     Profesional de TI con más de 12 años de experiencia en administración
     de sistemas, operación de infraestructuras y soporte técnico. Especializado
     en entornos Linux/RHEL, virtualización con Proxmox, contenedores Docker
-    y servidores de aplicaciones como WildFly. Busco incorporarme a una empresa
-    donde aportar mis conocimientos y seguir creciendo profesionalmente.
+    y servidores de aplicaciones como WildFly. Me incorporo a una empresa donde
+    poner en práctica todos mis conocimientos y crecer en el área laboral,
+    personal e intelectual.
 
 education:
   title: Formación
   info:
     - degree: Técnico Superior en Administración de Sistemas Informáticos en Red
       university: IES Punta del Verde
-      time:
+      time: 2011 - 2013
+      details: |
+        Título obtenido con Matrícula de Honor (nota: 9.85).
+        Especialidad en Informática.
+
+    - degree: Bachillerato Unificado Polivalente
+      university: IES Maese Rodrigo
+      time: 1993 - 1998
       details:
 
 experiences:
@@ -109,9 +117,54 @@ experiences:
 
     - role: Administrativo de Logística
       time: 2007 - 2009
-      company: Universal Lease Iberia
+      company: Universal Lease Iberia, Sevilla
       details: |
-        Gestión administrativa en el área de logística.
+        Encargado de la recepción, ubicación e informatización de los
+        vehículos que pasan al departamento de remarketing.
+
+    - role: Teleoperador Soporte Técnico ADSL
+      time: 2006 - 2007
+      company: Sitel, Sevilla
+      details: |
+        Soporte técnico ADSL para los clientes de la compañía Orange.
+
+    - role: Encargado de Gestión y Logística de Vehículos
+      time: 2005 - 2006
+      company: Comarent, Sevilla
+      details: |
+        Encargado de la gestión y logística de vehículos en campas.
+
+certifications:
+  title: Licencias y Certificaciones
+  list:
+    - name: ITIL 4 Foundation Certificate in IT Service Management
+      start: 2025
+      end:
+      organization: PeopleCert
+      credentialid: GR671789409FM
+      credentialurl:
+      credentialname: PeopleCert
+      details: |
+        Certificación en gestión de servicios de TI bajo el marco ITIL 4.
+
+    - name: LPIC-1 Certification
+      start: 2021
+      end: 2026
+      organization: Linux Professional Institute (LPI)
+      credentialid:
+      credentialurl: credly.com/badges/b5f50227-87e3-4b5f-b703-86ba05c5f37e
+      credentialname: Credly
+      details: |
+        Certificación de administrador de sistemas Linux nivel 1.
+
+    - name: LPIC-1
+      start: 2021
+      end: 2026
+      organization: Linux Professional Institute (LPI)
+      credentialid: xcxnqx9yxd
+      credentialurl:
+      credentialname: LPI
+      details:
 
 projects:
   title: Proyectos
@@ -123,11 +176,21 @@ projects:
       tagline: Servidor doméstico virtualizado con Proxmox, Docker y Home Assistant para automatización del hogar.
 
     - title: Certificación LPIC-1
-      link: "https://github.com/adekam29/LPIC-1"
+      link: "https://github.com/fernando-maqueda-rufo/LPIC-1"
       tagline: Material de estudio y recursos para la certificación Linux Professional Institute LPIC-1.
 
+courses:
+  title: Cursos
+  list:
+    - name: Administrador de Servidores y Páginas Web
+    - name: Diseñador de Páginas Web
+    - name: Programador de Aplicaciones Informáticas
+    - name: Técnico en Comunicación de Ordenadores y Redes
+    - name: Técnico en Electrónica General
+    - name: Técnico en Reparación y Montaje de Ordenadores
+
 skills:
-  title: Habilidades
+  title: Habilidades Técnicas
   toolset:
     - name: Linux / RHEL
       level: 90%
@@ -152,6 +215,15 @@ skills:
 
     - name: Home Assistant
       level: 70%
+
+    - name: Gestión de Certificados / PKI
+      level: 70%
+
+    - name: Sistemas Operativos
+      level: 85%
+
+    - name: Hardware y Arquitectura
+      level: 75%
 
 footer: >
   Diseñado con <i class="fas fa-heart"></i> usando
