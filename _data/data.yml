@@ -165,11 +165,7 @@ projects:
     - title: Home Lab con Proxmox
       link:
       tagline: Servidor doméstico virtualizado con Proxmox, Docker y Home Assistant para automatización del hogar.
-
-    - title: Certificación LPIC-1
-      link: "https://github.com/fernando-maqueda-rufo/LPIC-1"
-      tagline: Material de estudio y recursos para la certificación Linux Professional Institute LPIC-1.
-
+      
 courses:
   title: Cursos
   list:
