@@ -68,8 +68,7 @@ career-profile:
 education:
   title: Formación
   info:
-    - degree: Técnico Superior en Administración
-              de Sistemas Informáticos en Red
+    - degree: Técnico Superior en Administración de Sistemas Informáticos en Red
       university: IES Punta del Verde
       time: 2011 - 2013
       details: |
@@ -94,7 +93,8 @@ experiences:
         gestión de certificados y PKI, nginx, Docker y automatización
         de tareas con scripts Bash.
 
-    - role: Técnico Superior en Sistemas Microinformáticos y Administración de Infraestructuras
+    - role: Técnico Superior en Sistemas Microinformáticos
+            y Administración de Infraestructuras
       time: Abr 2014 - Oct 2020
       company: Ayesa Advanced Technologies, Sevilla
       details: |
