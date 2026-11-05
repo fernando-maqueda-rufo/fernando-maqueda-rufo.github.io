@@ -55,6 +55,9 @@ sidebar:
       - item: Domótica (Home Assistant)
         link:
 
+      - item: IA aplicada a la administración de sistemas y la automatización
+        link:
+
 career-profile:
   title: Perfil Profesional
   summary: |
@@ -166,7 +169,7 @@ certifications:
 
     - name: LPIC-1 — Linux Administrator
       start: 2021
-      end: 2026
+      end: 2027
       organization: Linux Professional Institute (LPI)
       credentialid:
       credentialurl: credly.com/badges/b5f50227-87e3-4b5f-b703-86ba05c5f37e
