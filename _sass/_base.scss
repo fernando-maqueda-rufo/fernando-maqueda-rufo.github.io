@@ -179,7 +179,8 @@ p {
 
   .experiences-section,
   .recommendations-section,
-  .educations-section {
+  .educations-section,
+  .certifications-section {
     .item {
       margin-bottom: 30px;
     }
@@ -200,16 +201,40 @@ p {
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 500;
-    flex: 75%;
+    flex: 1 1 auto;
+    min-width: 0;
+    padding-right: 15px;
   }
 
   .time,
   .cert-url {
-    position: absolute;
-    right: 0;
-    top: 0;
     color: $text-grey;
-    flex: 25%;
+    flex: 0 0 auto;
+    margin-left: auto;
+    white-space: nowrap;
+    text-align: right;
+  }
+  .details {
+    ul {
+      padding-left: 18px;
+      margin-bottom: 0;
+    }
+    li {
+      margin-bottom: 4px;
+    }
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+  .courses-list {
+    columns: 2;
+    column-gap: 30px;
+    padding-left: 18px;
+    margin-bottom: 0;
+    li {
+      margin-bottom: 6px;
+      break-inside: avoid;
+    }
   }
   .company,
   .recommendation-role,
